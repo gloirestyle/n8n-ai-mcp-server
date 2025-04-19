@@ -1,0 +1,1 @@
+{\n  \"mcpServers\": {\n    \"n8n-ai\": {\n      \"command\": \"npx\",\n      \"args\": [\"n8n-ai-mcp-server\"],\n      \"env\": {\n        \"N8N_URL\": \"http://localhost:5678\",\n        \"N8N_API_KEY\": \"your_api_key_here\"\n      }\n    }\n  }\n}
